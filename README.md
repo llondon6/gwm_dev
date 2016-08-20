@@ -1,2 +1,2 @@
-# gwmod_dev
-Python package for high-level GW model organization
+# gwm_dev
+Python package for high-level GW Model (GWM) organization
